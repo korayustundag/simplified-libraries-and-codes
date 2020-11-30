@@ -1,0 +1,5 @@
+C:\Projects\hashlibs\bin\Release\hashlibs.dll
+C:\Projects\hashlibs\bin\Release\hashlibs.pdb
+C:\Projects\hashlibs\obj\Release\hashlibs.csproj.CoreCompileInputs.cache
+C:\Projects\hashlibs\obj\Release\hashlibs.dll
+C:\Projects\hashlibs\obj\Release\hashlibs.pdb

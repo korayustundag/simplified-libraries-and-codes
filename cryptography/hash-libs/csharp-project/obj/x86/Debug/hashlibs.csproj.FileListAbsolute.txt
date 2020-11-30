@@ -1,0 +1,6 @@
+C:\Projects\hashlibs\bin\x86\Debug\hashlibs.dll
+C:\Projects\hashlibs\bin\x86\Debug\hashlibs.pdb
+C:\Projects\hashlibs\obj\x86\Debug\hashlibs.csprojAssemblyReference.cache
+C:\Projects\hashlibs\obj\x86\Debug\hashlibs.csproj.CoreCompileInputs.cache
+C:\Projects\hashlibs\obj\x86\Debug\hashlibs.dll
+C:\Projects\hashlibs\obj\x86\Debug\hashlibs.pdb
